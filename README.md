@@ -5,9 +5,9 @@
 
 The main requirements are listed below:
 
-* Python 3.8
+* Python 3.5.6
 * NumPy
-* OpenCV
+* OpenCV 3.4.1.15
 * Skimage
 * Matplotlib
 * Numba
