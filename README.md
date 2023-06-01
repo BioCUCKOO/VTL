@@ -12,7 +12,7 @@ The main requirements are listed below:
 * Matplotlib
 * Numba
 
-## The description of VTL source codes
+## The description of VTL source codes and files
 
 * vtl.py
 
@@ -22,3 +22,14 @@ The main requirements are listed below:
 
     The code is used for raw wo-dimensional coordinate system data ordering.
 
+* demo-v.mp4
+
+    A 4 minutes fly movements tracking video in the mp4 format.
+
+* demo-v_1.vtl
+
+    The raw vtl result file of demo-v.mp4, processed by vtl.py.
+
+* demo-v_1-order.vtl
+
+    The sorted vtl result file of demo-v_1.vtl, processed by dataorder.py.
