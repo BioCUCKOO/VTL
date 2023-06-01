@@ -24,7 +24,7 @@ The main requirements are listed below:
 
 * demo-v.mp4
 
-    A 4 minutes fly movements tracking video in the mp4 format.
+    A 4 minutes fly movements tracking video in the mp4 format. Can be downloaded at https://vtl.biocuckoo.cn/download.html
 
 * demo-v_1.vtl
 
